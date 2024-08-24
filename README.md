@@ -1,5 +1,6 @@
 # portfolio-optimisation
 
+pip install all relevant libraries
 To run this file "python -m streamlit run portfolio-optimization-app.py"
 
 Portfolio Optimization and Risk Management Tool
